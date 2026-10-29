@@ -13,9 +13,15 @@ A tiny, framework-agnostic TypeScript helper for checking whether an action is r
 
 ## The idea
 
-A disabled button is a room without a sun: the action is there, the world is there, but nobody can see why it stays dark. SunCheck turns every blocked action into an ordered list of missing pieces, so the player never has to guess <img src="images/niko_wow.webp" height="20" alt="Niko holding a heart">
+A disabled button is a room without a sun: the action is there, the world is there, but nobody can see why it stays dark. SunCheck turns every blocked action into an ordered list of missing pieces, so the player never has to guess <img src="images/niko_wow.webp" height="20" alt="Niko Wow">
 
-Every blocked action gets one shot to explain itself. Use it well <img src="images/niko_heart.png" height="20" alt="Niko holding a heart">
+Every blocked action gets one shot to explain itself. Use it well <img src="images/niko_heart.png" height="20" alt="Niko Heart">
+
+## Installation
+
+```bash
+npm install suncheck
+```
 
 ## Example
 
